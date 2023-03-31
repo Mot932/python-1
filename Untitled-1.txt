@@ -29,7 +29,8 @@ class Mother:
     def __init__(self):
         self.name = "мама"
         self.patience = 100
-    def weekend(self):
+    def weekend(self): 
+        print("негрс")
         print("читать ужасы")
 
 
